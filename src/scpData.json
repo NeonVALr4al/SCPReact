@@ -1,0 +1,47 @@
+[
+  {
+    "ScpID": 173,
+    "item": "SCP-173",
+    "nickname": "The Sculpture",
+    "objectClass": "Euclid",
+    "containment": "SCP-173 is to be kept in a locked container at all times. When personnel must enter SCP-173's container, no fewer than 3 may enter at any time and the door is to be relocked behind them. At least one personnel must maintain direct eye contact with SCP-173 at all times. Personnel are forbidden from blinking while in the presence of SCP-173.",
+    "description": "SCP-173 is constructed from concrete and rebar with traces of Krylon brand spray paint. It is animate and extremely hostile. The object cannot move while within a direct line of sight. Line of sight must not be broken at any time with SCP-173. Personnel assigned to enter container are instructed to alert one another before blinking. Object is reported to attack by snapping the neck at the base of the skull, or strangulation.",
+    "image": "SCP-173.webp"
+  },
+  {
+    "ScpID": 96,
+    "item": "SCP-096",
+    "nickname": "The Shy Guy",
+    "objectClass": "Euclid",
+    "containment": "SCP-096 is to be contained in its cell, a 5m x 5m x 5m airtight steel cube, at all times. Weekly checks for any cracks or holes are mandatory. No photograph, video, or digital representation of SCP-096's face may exist. Any such material must be immediately destroyed. In the event of a breach, personnel must not look at SCP-096's face under any circumstances.",
+    "description": "SCP-096 is a humanoid creature measuring approximately 2.38 meters in height. It is normally docile and non-hostile, and will sit in the corner of its cell and weep. However, if any individual views SCP-096's face — whether directly, via photograph, or in any form of media — SCP-096 will enter a state of extreme distress and pursue that individual to any location on Earth. No material or structure has been capable of impeding SCP-096 in this state.",
+    "image": "SCP-096.webp"
+  },
+  {
+    "ScpID": 49,
+    "item": "SCP-049",
+    "nickname": "The Plague Doctor",
+    "objectClass": "Euclid",
+    "containment": "SCP-049 is to be contained in a standard secure humanoid containment cell within Site-19. Interaction requires Level 2 clearance minimum and must be approved by at least two senior personnel. During interaction, SCP-049 must be restrained by mechanical arms. SCP-049 is permitted writing implements for communication purposes only.",
+    "description": "SCP-049 appears to be a humanoid entity bearing the appearance of a medieval plague doctor, wearing a dark robe and a white ceramic mask. It is capable of speech in several languages and displays considerable intelligence. SCP-049 claims to be able to sense a 'Pestilence' it believes is affecting humanity. Physical contact from SCP-049's bare hands results in immediate death of the subject, after which SCP-049 will attempt to perform a surgical procedure on the corpse.",
+    "image": "SCP-049.webp"
+  },
+  {
+    "ScpID": 106,
+    "item": "SCP-106",
+    "nickname": "The Old Man",
+    "objectClass": "Keter",
+    "containment": "SCP-106 is to be contained in a sealed container lined with lead-lined steel. The container must be magnetically locked and monitored by camera at all times. No physical contact with SCP-106 is permitted. In the event of a containment breach, the Femur Breaker protocol is to be initiated immediately to lure SCP-106 back to its containment unit.",
+    "description": "SCP-106 appears as an elderly humanoid covered in a dark, corroded substance, exhibiting severe physical decomposition. SCP-106 is capable of phasing through solid matter, leaving behind a corrosive, black substance. It tends to retreat to its pocket dimension, a labyrinthine space under SCP-106's control, with captured victims. Victims returned from this dimension show extreme psychological trauma and random physical damage, often fatal.",
+    "image": "SCP-106.webp"
+  },
+  {
+    "ScpID": 682,
+    "item": "SCP-682",
+    "nickname": "Hard-to-Destroy Reptile",
+    "objectClass": "Keter",
+    "containment": "SCP-682 must be destroyed as soon as possible. Until a reliable termination method is found, SCP-682 is to be contained in a 5m x 5m x 5m chamber filled with hydrochloric acid. The chamber must be reinforced with blast-resistant materials. Personnel must avoid any unnecessary interaction with SCP-682. Termination attempts require O5 approval.",
+    "description": "SCP-682 is a large, vaguely reptilian creature of unknown origin. It is highly intelligent and shows intense hatred toward all life. SCP-682 has demonstrated the ability to adapt to virtually any method of attack or containment, rapidly regenerating from any damage inflicted upon it. SCP-682 communicates in several languages and has made clear its intent to destroy all life. All termination attempts have thus far failed.",
+    "image": "SCP-682.webp"
+  }
+]
